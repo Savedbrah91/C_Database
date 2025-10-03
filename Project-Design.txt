@@ -1,0 +1,14 @@
+Project Design:
+
+Employee Database
+
+Start off as a file on system
+
+./dbview - read databse and create list in memory of employee structs --
+    -a -- add employee to database
+    -d --- delete an employee
+    -u --- update employee
+    -f --file
+    -n -- create new file
+
+    
